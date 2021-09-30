@@ -1,0 +1,15 @@
+{
+  "name": "mine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Quijano <andres.quijano@pragma.com.co>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "postman-request": "^2.88.1-postman.30"
+  }
+}
